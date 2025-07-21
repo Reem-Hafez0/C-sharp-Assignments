@@ -1,0 +1,14 @@
+D:\.NET\2_C#\Solution\Assignment2\bin\Debug\net8.0\Assignment2.exe
+D:\.NET\2_C#\Solution\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+D:\.NET\2_C#\Solution\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+D:\.NET\2_C#\Solution\Assignment2\bin\Debug\net8.0\Assignment2.dll
+D:\.NET\2_C#\Solution\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+D:\.NET\2_C#\Solution\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\2_C#\Solution\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+D:\.NET\2_C#\Solution\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+D:\.NET\2_C#\Solution\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\.NET\2_C#\Solution\Assignment2\obj\Debug\net8.0\Assignment2.dll
+D:\.NET\2_C#\Solution\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+D:\.NET\2_C#\Solution\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+D:\.NET\2_C#\Solution\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+D:\.NET\2_C#\Solution\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll
